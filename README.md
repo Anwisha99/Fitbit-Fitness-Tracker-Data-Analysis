@@ -41,7 +41,7 @@ Visualizations make the data come alive! Explore:
 ## 🧰 Tools of the Trade
 🐍 Python: The powerhouse for data manipulation and visualization.
 
-📚 Libraries: Pandas, Matplotlib.
+📚 Libraries: Pandas, Matplotlib, pyodbc
 
 🗄️ SQL Server: For storage, querying, and procedural logic.
 
