@@ -1,6 +1,8 @@
 # 🏋️ Fitbit Fitness Tracker Data Analysis
 Uncover the hidden stories in your fitness data! This project dives deep into Fitbit Fitness Tracker data to analyze activity levels, sleep patterns, calorie burn, and more. It combines Python-based analysis with SQL Server for advanced querying and reusable stored procedures.
 
+<img src = "https://github.com/Anwisha99/Fitbit-Fitness-Tracker-Data-Analysis/blob/main/Project%20fitbit.jpeg" width="1200" height="350" alt="report1"/> &emsp;
+
 ## 🚀 What’s Inside?
 🔍 Data Cleaning: Transform raw data into insights-ready formats.
 📊 Exploratory Analysis: Visualize activity, sleep, and calorie trends.
@@ -38,6 +40,9 @@ Visualizations make the data come alive! Explore:
 
 ## 🧰 Tools of the Trade
 🐍 Python: The powerhouse for data manipulation and visualization.
-📚 Libraries: Pandas, Matplotlib, Seaborn, SQLAlchemy.
+
+📚 Libraries: Pandas, Matplotlib.
+
 🗄️ SQL Server: For storage, querying, and procedural logic.
+
 📓 Jupyter Notebook: For seamless exploration and documentation.
